@@ -24,10 +24,10 @@ public class MainActivity extends AppCompatActivity {
         mWebView.getSettings().setDomStorageEnabled(true);
 
         //load index.html from the assets folder
-        //mWebView.loadUrl("file:///android_asset/www/index.htm");
+        mWebView.loadUrl("file:///android_asset/www/index.html");
 
         //load a web based URL
-        mWebView.loadUrl("https://github.com/bibin14/HybridAndroidAppSample");
+        //mWebView.loadUrl("https://github.com/bibin14/HybridAndroidAppSample");
 
 
     }
