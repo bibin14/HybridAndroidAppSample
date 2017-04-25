@@ -10,3 +10,5 @@ A WebView is often used to load HTML content within a native application. The We
 The WebView is capable of displaying online or offline web content within its layout using HTML5, JavaScript, and CSS technologies. It also includes standard browser features like history, zooming, JavaScript, rendering CSS, and so on.
 
 The most common implementation is to facilitate advertisement loading from remote servers. WebView often comes in handy for rendering complex UI views. One good example is the Facebook and LinkedIn applications wherein the news feed is rendered using the WebView control.
+
+<i><b>Note:<b/><br/> The local HTML5 responsive web template used for this sample was downloaded from https://html5up.net/  <i/>
